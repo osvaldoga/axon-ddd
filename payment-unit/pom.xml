@@ -17,7 +17,7 @@
     <properties>
         <java.version>1.8</java.version>
         <axon.spring>4.3.3</axon.spring>
-        <swagger>2.9.2</swagger>
+        <swagger>2.10.0</swagger>
     </properties>
 
     <dependencies>
